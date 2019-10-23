@@ -14,8 +14,7 @@ $ npm install react-async-button --save
 
 ## DOCS & DEMO
 
-https://selvagsz.github.io/react-async-button/
-
+http://thiscode.ninja/react-sample/docs/
 
 ## Example
 
